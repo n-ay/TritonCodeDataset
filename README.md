@@ -23,3 +23,4 @@ This dataset contains extracted **Triton GPU kernels** from various HuggingFace 
 | HuggingFace/RobertaForQuestionAnswering | `triton_roberta_qa.py` |
 | HuggingFace/XGLMForCausalLM | `triton_xglm.py` |
 | HuggingFace/XLNetLMHeadModel | `triton_xlnet.py` |
+| HuggingFace/YituTechConvBert | `triton_yitutechconvbert.py` |
